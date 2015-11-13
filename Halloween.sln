@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halloween", "Halloween\Halloween.csproj", "{65A0DEA8-5A47-4A47-8FE1-771799E5C872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halloween.Tests", "Halloween.Tests\Halloween.Tests.csproj", "{CEA32D44-CEC2-4DF5-8782-1894D7ACB6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65A0DEA8-5A47-4A47-8FE1-771799E5C872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A0DEA8-5A47-4A47-8FE1-771799E5C872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A0DEA8-5A47-4A47-8FE1-771799E5C872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A0DEA8-5A47-4A47-8FE1-771799E5C872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA32D44-CEC2-4DF5-8782-1894D7ACB6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA32D44-CEC2-4DF5-8782-1894D7ACB6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA32D44-CEC2-4DF5-8782-1894D7ACB6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA32D44-CEC2-4DF5-8782-1894D7ACB6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
